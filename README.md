@@ -5,8 +5,8 @@ I want to be a good Backend Engineer👍
 - 🌱 I’m currently learning Java, SpringBoot, Docker, Kubernetes
 
 #### My Blog
-- https://dong-co.tistory.com/
-- https://dong-wook94.github.io/
+- https://dong-co.tistory.com/   `2020.03 ~`
+- https://dong-wook94.github.io/ `2020.08 ~`
 
 
 #### Experience
