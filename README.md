@@ -13,7 +13,7 @@ I want to be a good Backend Engineer👍
 
 * KAKAO Intern `2020.07.01 ~ 2020.08.31`
 * WorksMobile Intern `2020.01.06 ~ 2020.02.28`
-* LG Soft India `2019.07.01 ~ 2019.07.26`
+* LG Soft India Intern `2019.07.01 ~ 2019.07.26`
 
 
 
