@@ -16,6 +16,8 @@ I want to be a good Backend Engineer👍
 * LG Soft India Intern `2019.07.01 ~ 2019.07.26`
 
 
+[![Dong-wook94's github stats](https://github-readme-stats.vercel.app/api?username=Dong-wook94)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Dong-wook94/Dong-wook94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
