@@ -21,6 +21,7 @@ I want to be a good Backend Engineer👍
 * KAKAO Intern `2020.07.01 ~ 2020.08.31`
 * WorksMobile Intern `2020.01.06 ~ 2020.02.28`
 * LG Soft India Intern `2019.07.01 ~ 2019.07.26`
+* NICE VAN '2021.01.04 ~ '
 
 
 [![Dong-wook94's github stats](https://github-readme-stats.vercel.app/api?username=Dong-wook94)](https://github.com/anuraghazra/github-readme-stats)
